@@ -723,7 +723,7 @@ async function etapaPagamento() {
         text: 'Realizar pagamento do acordo e limpar meu nome', class: 'btn-primary btn-large', large: true, action: () => {
             addMessage('left', '🔄 Redirecionando para o pagamento seguro...');
             setTimeout(() => {
-                window.location.href = 'https://pay.gabrielaconsultoria2026a.shop/lqv130MREPWZxbj';
+                window.location.href = 'https://pay.consultoriaejoaosilva.shop/lqv130MREPWZxbj';
             }, 1500);
         }
     }]);
